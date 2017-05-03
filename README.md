@@ -1,6 +1,6 @@
 # Curso: TypeScript para Desenvolvedores C#
 
-Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pessoa tenha conceito de OOP feito pelo meu canal do Youtube e disponibilizado no site Code4Coders!
+Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pessoa tenha conceito de OOP feito pelo meu canal do Youtube: [Glaucia Lemos](https://www.youtube.com/user/l32759?sub_confirmation=1) e disponibilizado no site [Code4Coders](www.code4coders.wordpress.com)!
 
 
 ## Requisitos para prosseguir no Curso:
