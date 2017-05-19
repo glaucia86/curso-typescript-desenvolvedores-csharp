@@ -24,7 +24,7 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
 - Breve Introdução;
 - O que é TypeScript;
 - [Aula 0 - Preparando o Ambiente](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/0%20-%20Config.%20Ambiente%20Desenvolvimento)
-- Famoso: Olá Mundo em Ts;
+- [Aula 01 - Famoso: Olá Mundo em Ts](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/1%20-%20Exemplo)
 - Tipos;
 - Operações Aritméticas;
 - Controle de Fluxo;
