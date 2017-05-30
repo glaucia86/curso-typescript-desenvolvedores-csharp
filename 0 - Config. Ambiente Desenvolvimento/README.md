@@ -8,7 +8,7 @@ Há necessidade de instalar Node.Js e TypeScript!!! Assim que segue os links aci
 ### 1º Passo:
 Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):
 
-![alt tag](https://uploaddeimagens.com.br/imagens/pic_1-png--2)
+![alt tag](https://uploaddeimagens.com.br/images/000/921/644/original/pic_1.png?1495141187)
 
 ### 2º Passo:
 Depois basta copiar as informações inerentes ao arquivo: **tsconfig.json**
