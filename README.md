@@ -24,11 +24,11 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
 - [Aula 00 - Breve Introdução](https://www.youtube.com/watch?v=SbAzEptUwI4&t=15s&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&index=1)
 - [Aula 01 - Preparando o Ambiente](https://www.youtube.com/watch?v=DwEJEVVqFVw&t=520s&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&index=2)
 - [Aula 02 - Famoso: Olá Mundo em Ts](https://www.youtube.com/watch?v=uKUjeUkH3Zc&t=25s&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&index=3)
-    * Códigos Aula 02:
+    * Códigos da Aula 02:
         - [1 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/1%20-%20Exemplo)
 - [Aula 03 - Tipos (Aula Teórica)](https://www.youtube.com/watch?v=BVZvxd_OW5Y&t=25s&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&index=4)
 - [Aula 04 - Tipos: Parte I](https://www.youtube.com/watch?v=40ci-Ww4qhs&t=25s&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&index=5)
-    * Códigos Aula 04:
+    * Códigos da Aula 04:
         - [2 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/2%20-%20Exemplo)
         - [3 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/3%20-%20Exemplo)
 - [Aula 05 - Tipos: Parte II](https://www.youtube.com/watch?v=6Mt0W0IBIBU&t=14s&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&index=6)
