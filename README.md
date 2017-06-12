@@ -1,6 +1,6 @@
 # Curso: TypeScript para Desenvolvedores C#
 
-Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pessoa tenha conceito de OOP feito pelo meu canal do Youtube: [Glaucia Lemos](https://www.youtube.com/user/l32759?sub_confirmation=1) e disponibilizado no site [Code4Coders](www.code4coders.wordpress.com)!
+Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pessoa tenha conceito de POO realizado através do meu canal do Youtube: [Glaucia Lemos](https://www.youtube.com/user/l32759?sub_confirmation=1) e disponibilizado no site [Code4Coders](www.code4coders.wordpress.com)!
 
 
 ## Requisitos para prosseguir no Curso:
@@ -42,7 +42,12 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
         - [5 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/5%20-%20Exemplo)
         - [6 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/6%20-%20Exemplo)
         
-- Operações Aritméticas;
+- [Aula 06 - Operações Aritméticas (Aula Teórica)](https://www.youtube.com/watch?v=M73b02u9JQo)
+
+- [Aula 07 - Operações Aritméticas (Demo)](https://www.youtube.com/watch?v=eU0VG8NOn50)
+    * Códigos da Aula 07:
+        - [7 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/7%20-%20Exemplo)
+
 - Controle de Fluxo;
 - Parâmetros Opcionais;
 - Parâmetros Default;
@@ -50,7 +55,7 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
 - Arrow Functions;
 - Objetos Literais;
 - Classes;
-- Constructores;
+- Construtores;
 - Herança
 - Interfaces;
 - E o que eu preciso fazer para aprender mais?!
