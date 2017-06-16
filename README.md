@@ -1,7 +1,8 @@
 # Curso: TypeScript para Desenvolvedores C#
 
-Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pessoa tenha conceito de POO realizado através do meu canal do Youtube: [Glaucia Lemos](https://www.youtube.com/user/l32759?sub_confirmation=1) e disponibilizado no site [Code4Coders](www.code4coders.wordpress.com)!
+Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pessoa tenha conceito de POO realizado através da plataforma Udemy: [Curso: TypeScript para Desenvolvedores C#](https://www.udemy.com/curso-typescript-para-desenvolvedores-c/)
 
+**p.s.:** O curso encontra em desenvolvimento. Porém, haverá 4 novas aulas toda semana até ser concluída a grade do curso! 
 
 ## Requisitos para prosseguir no Curso:
 
