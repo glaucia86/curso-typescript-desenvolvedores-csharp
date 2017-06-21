@@ -49,7 +49,16 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
     * Códigos da Aula 07:
         - [7 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/7%20-%20Exemplo)
 
-- Controle de Fluxo;
+- [Aula 08 - Controle de Fluxo (Aula Teórica)](https://www.youtube.com/watch?v=kfYsaelM2j4);
+
+- [Aula 09 - Controle de Fluxo (Demo Parte I)](https://www.youtube.com/watch?v=RFpZmEZRi4w)
+    * Códigos da Aula 09:
+        - [8 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/8%20-%20Exemplo)
+
+- [Aula 10 - Controle de Fluxo (Demo Parte II)](https://www.youtube.com/watch?v=CL0E7wHAUjM)
+    * Códigos da Aula 10:
+        - [9 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/9%20-%20Exemplo)
+        
 - Parâmetros Opcionais;
 - Parâmetros Default;
 - Parâmetros Rest;
