@@ -59,7 +59,12 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
     * Códigos da Aula 10:
         - [9 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/9%20-%20Exemplo)
         
-- Parâmetros Opcionais;
+- [Aula 11 - Parâmetros Opcionais (Aula Prática)](https://www.youtube.com/watch?v=k0Bt7uloyOU)
+
+- [Aula 12 - Parâmetros Opcionais (Demo)]()
+    * Códigos da Aula 12:
+        - [10 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/10%20-%20Exemplo)
+        
 - Parâmetros Default;
 - Parâmetros Rest;
 - Arrow Functions;
