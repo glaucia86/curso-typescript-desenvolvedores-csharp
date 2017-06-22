@@ -61,7 +61,7 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
         
 - [Aula 11 - Parâmetros Opcionais (Aula Prática)](https://www.youtube.com/watch?v=k0Bt7uloyOU)
 
-- [Aula 12 - Parâmetros Opcionais (Demo)]()
+- [Aula 12 - Parâmetros Opcionais (Demo)](https://www.youtube.com/watch?v=zwG6GD1q-VI)
     * Códigos da Aula 12:
         - [10 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/10%20-%20Exemplo)
         
