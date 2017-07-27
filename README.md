@@ -86,7 +86,6 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
         - [15 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/15%20-%20Exemplo)
         - [16 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/16%20-%20Exemplo)
         
-- Objetos Literais;
 - Classes;
 - Construtores;
 - Herança
