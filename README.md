@@ -81,12 +81,17 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
     
 - [Aula 17 - Arrow Functions (Aula Prática)](https://www.youtube.com/watch?v=ySbjqjELgS0);
 
-- [Aula 18 - Arrow Functions (Demo)]();
+- [Aula 18 - Arrow Functions (Demo)](https://www.youtube.com/watch?v=cCIerR46ihk);
     * Códigos da Aula 18:
         - [15 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/15%20-%20Exemplo)
         - [16 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/16%20-%20Exemplo)
         
-- Classes;
+- [Aula 19 - Classes (Aula Teórica)](https://www.youtube.com/watch?v=mcx9_uhUthg);
+
+- [Aula 20 - Classes (Aula Prática)](https://www.youtube.com/watch?v=lOTOylZc4mc);
+    * Códigos da Aula 20:
+        -[17 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/17%20-%20Exemplo)
+        
 - Construtores;
 - Herança
 - Interfaces;
