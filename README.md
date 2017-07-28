@@ -72,9 +72,20 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
         - [11 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/11%20-%20Exemplo)
         - [12 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/12%20-%20Exemplo)
         
-- Parâmetros Rest;
-- Arrow Functions;
-- Objetos Literais;
+- [Aula 15 - Parâmetros Rest (Aula Prática)](https://www.youtube.com/watch?v=byR43xkVIZI);
+
+- [Aula 16 - Parâmetros Rest (Demo)]();
+    * Códigos da Aula 16:
+        - [13 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/13%20-%20Exemplo)
+        - [14 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/14%20-%20Exemplo)
+    
+- [Aula 17 - Arrow Functions (Aula Prática)](https://www.youtube.com/watch?v=ySbjqjELgS0);
+
+- [Aula 18 - Arrow Functions (Demo)]();
+    * Códigos da Aula 18:
+        - [15 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/15%20-%20Exemplo)
+        - [16 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/16%20-%20Exemplo)
+        
 - Classes;
 - Construtores;
 - Herança
