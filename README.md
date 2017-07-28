@@ -90,8 +90,8 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
 
 - [Aula 20 - Classes (Aula Prática)](https://www.youtube.com/watch?v=lOTOylZc4mc);
     * Códigos da Aula 20:
-        -[17 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/17%20-%20Exemplo)
-        
+        - [17 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/17%20-%20Exemplo)
+
 - Construtores;
 - Herança
 - Interfaces;
