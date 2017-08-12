@@ -65,11 +65,33 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
     * Códigos da Aula 12:
         - [10 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/10%20-%20Exemplo)
         
-- Parâmetros Default;
-- Parâmetros Rest;
-- Arrow Functions;
-- Objetos Literais;
-- Classes;
+- [Aula 13 - Parâmetros Default (Aula Prática)](https://www.youtube.com/watch?v=ltm4duf8E_I);
+
+- [Aula 14 - Parâmetros Default (Demo)](https://www.youtube.com/watch?v=Sv-s0X6VD6A);
+    * Códigos da Aula 14:
+        - [11 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/11%20-%20Exemplo)
+        - [12 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/12%20-%20Exemplo)
+        
+- [Aula 15 - Parâmetros Rest (Aula Prática)](https://www.youtube.com/watch?v=byR43xkVIZI);
+
+- [Aula 16 - Parâmetros Rest (Demo)]();
+    * Códigos da Aula 16:
+        - [13 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/13%20-%20Exemplo)
+        - [14 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/14%20-%20Exemplo)
+    
+- [Aula 17 - Arrow Functions (Aula Prática)](https://www.youtube.com/watch?v=ySbjqjELgS0);
+
+- [Aula 18 - Arrow Functions (Demo)](https://www.youtube.com/watch?v=cCIerR46ihk);
+    * Códigos da Aula 18:
+        - [15 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/15%20-%20Exemplo)
+        - [16 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/16%20-%20Exemplo)
+        
+- [Aula 19 - Classes (Aula Teórica)](https://www.youtube.com/watch?v=mcx9_uhUthg);
+
+- [Aula 20 - Classes (Aula Prática)](https://www.youtube.com/watch?v=lOTOylZc4mc);
+    * Códigos da Aula 20:
+        - [17 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/17%20-%20Exemplo)
+
 - Construtores;
 - Herança
 - Interfaces;
