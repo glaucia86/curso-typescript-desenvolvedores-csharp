@@ -92,7 +92,12 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
     * Códigos da Aula 20:
         - [17 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/17%20-%20Exemplo)
 
-- Construtores;
+- [Aula 21 - Atributos Privados (Aula Teórica)](https://www.youtube.com/watch?v=BGbpdrUHCIo);
+
+- [Aula 22 - Atributos Privados (Aula Demo)](https://www.youtube.com/watch?v=xcO8KGra3B8)
+    * Códigos da Aula 22:
+        - [18 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/18%20-%20Exemplo)
+        
 - Herança
 - Interfaces;
 - E o que eu preciso fazer para aprender mais?!
