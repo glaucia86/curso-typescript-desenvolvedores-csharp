@@ -98,12 +98,18 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
     * Códigos da Aula 22:
         - [18 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/18%20-%20Exemplo)
         
-- Herança
-- Interfaces;
-- E o que eu preciso fazer para aprender mais?!
+- [Aula 23 - Herança (Aula Teórica)](https://www.youtube.com/watch?v=5OYXtPUJjj4&t=1s&index=22&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob);
+
+- [Aula 24 - Herança (Aula Demo)](https://www.youtube.com/watch?v=eqfjzyZZ1P4&t=11s&index=23&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob);
+    * Códigos da Aula 24:
+        - [19 - Exemplo](https://github.com/glaucia86/curso-typescript-desenvolvedores-csharp/tree/master/19%20-%20Exemplo)
+
+- [Aula 25 - Interfaces (Aula Teórica)]()
+
+- [Aula 26 - Interfaces (Aula Demo)]()
+    * Códigos da Aula 26:
+        - [20 - Exemplo]()
+
+- Aula 27 - E o que eu preciso fazer para aprender mais?!]()
 
 (documentação em desenvolvimento)
-
-
-
-    
