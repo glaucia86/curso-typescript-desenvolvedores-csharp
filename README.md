@@ -110,6 +110,6 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
     * Códigos da Aula 26:
         - [20 - Exemplo]()
 
-- Aula 27 - E o que eu preciso fazer para aprender mais?!]()
+- [Aula 27 - E o que eu preciso fazer para aprender mais?!]()
 
 (documentação em desenvolvimento)
