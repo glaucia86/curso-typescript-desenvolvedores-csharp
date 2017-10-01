@@ -112,4 +112,3 @@ Curso de TypeScript para Desenvolvedores C# ou qualquer outra linguagem que a pe
 
 - [Aula 27 - E o que eu preciso fazer para aprender mais?!]()
 
-(documentação em desenvolvimento)
